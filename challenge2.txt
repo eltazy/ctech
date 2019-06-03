@@ -1,0 +1,5 @@
+settings
+session management
+login and authentication
+handling and displaying data
+validation

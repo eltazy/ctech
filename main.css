@@ -1,0 +1,11 @@
+thead, tbody {
+    display: block;
+}
+
+tbody {
+    height: 512px;       /* Just for the demo          */
+    overflow-y: auto;    /* Trigger vertical scroll    */
+    overflow-x: hidden;  /* Hide the horizontal scroll */
+}
+table.fixed { table-layout:fixed; }
+table.fixed td { overflow: hidden; }
